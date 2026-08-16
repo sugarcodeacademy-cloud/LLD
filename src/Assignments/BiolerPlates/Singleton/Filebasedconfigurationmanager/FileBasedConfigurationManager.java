@@ -1,4 +1,4 @@
-package Assignments.BiolerPlates.Singleton;
+package Assignments.BiolerPlates.Singleton.Filebasedconfigurationmanager;
 
 
 import java.io.FileInputStream;
