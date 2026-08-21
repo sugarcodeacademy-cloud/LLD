@@ -18,9 +18,6 @@ Your task is to implement the Builder pattern to create instances of a class wit
 Implement the builder class - Implement the class called DatabaseConfigurationBuilder that will implement the builder pattern.
 Remember the class is annotated with @WithBuilder annotation. The name does not matter as long as it is annotated.
 
-Test your implementation - Hidden test case has been provided for you to test your implementation.
-Click the submit button to run the test cases to ensure that your implementation is correct.
-This will pick the correct implementation of the builder class based on the @WithBuilder annotation.
 
 Note
 Do not create any new file. Explore the file structure and implement and complete the code wherver required.

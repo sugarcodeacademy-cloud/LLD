@@ -19,5 +19,3 @@ Create the builder class: Create a new class called MessageBuilder that will imp
 A dummy class has been provided for you to start with. Remember to annotate the class with the @WithBuilder annotation.
 The name does not matter as long as it is annotated.
 
-Test your implementation: Test cases has been provided for you to test your implementation.
-Run the test case to ensure that your implementation is correct.

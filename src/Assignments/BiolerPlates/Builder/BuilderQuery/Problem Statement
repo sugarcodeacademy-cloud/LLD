@@ -21,5 +21,3 @@ the Builder pattern for creating query instances. A starter class has been given
 Don't forget to annotate the class with the @WithBuilder annotation.
 The actual name of the class doesn't matter, as long as it is annotated.
 
-Test your implementation: Test cases have been provided for you to verify the correctness of your implementation.
-Execute the test cases to ensure the accuracy of your code.
