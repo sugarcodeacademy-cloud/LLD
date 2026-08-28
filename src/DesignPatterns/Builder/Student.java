@@ -1,4 +1,4 @@
-package DesignPatterns.Adapter.Builder;
+package DesignPatterns.Builder;
 
 public class Student {
 //Map Approach
