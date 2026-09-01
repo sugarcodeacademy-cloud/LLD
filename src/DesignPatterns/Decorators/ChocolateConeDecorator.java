@@ -1,5 +1,10 @@
 package DesignPatterns.Decorators;
-
+/**
+ * ChocolateCone — Concrete Component (base cone).
+ *
+ * A chocolate-flavoured cone. Like ChocolateCone, it can be the
+ * starting point of an ice cream OR decorate an existing one.
+ */
 public class ChocolateConeDecorator implements IceCream{
     private IceCream iceCream;
     public ChocolateConeDecorator(IceCream iceCream) {

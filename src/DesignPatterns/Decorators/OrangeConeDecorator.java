@@ -1,5 +1,10 @@
 package DesignPatterns.Decorators;
-
+/**
+ * OrangeCone — Concrete Component (base cone).
+ *
+ * A orange-flavoured cone. Like OrangeCone, it can be the
+ * starting point of an ice cream OR decorate an existing one.
+ */
 public class OrangeConeDecorator implements IceCream{
     private IceCream iceCream;
 
