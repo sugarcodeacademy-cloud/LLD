@@ -1,0 +1,8 @@
+Folder Structure
+1.Models
+2.Controllers
+3.Strategies
+4.Exceptions
+5.Services
+
+ENUMS --> Models(Simple and Complex) --> strategies --> services --> controllers
